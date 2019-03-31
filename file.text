@@ -1,1 +1,4 @@
-ezfcds
+git add .
+git commit -m 'fisrt commit'
+git push -u origin master
+git config credential.helper store
