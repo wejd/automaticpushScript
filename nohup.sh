@@ -1,0 +1,1 @@
+inotifywait -e modify /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
