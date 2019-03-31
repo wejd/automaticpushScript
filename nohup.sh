@@ -1,1 +1,1 @@
-inotifywait -m -e modify -e create -e delete -e close_write /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
+inotifywait -m -e modify -e create -e delete -e close_write -r -o /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out -d /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
