@@ -8,3 +8,5 @@ git config credential.helper store
 fswatch -o ~/path/to/watch | xargs -n1 -I{} ~/script/to/run/when/files/change.sh
 #for linux
 inotifywait -e modify /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
+
+#know i have to execute inotifywait on background
