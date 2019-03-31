@@ -6,7 +6,6 @@ git config credential.helper store
 
 #for mac we have to use
 fswatch -o ~/path/to/watch | xargs -n1 -I{} ~/script/to/run/when/files/change.sh
-#for linux
-nohup inotifywait -e modify /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh &
-
+#for linux and perhaps for mac os
 #we have to create a script file containing inotifywait command and execute it with nohup commandline
+nohup pathtoScropt/nohup.sh &

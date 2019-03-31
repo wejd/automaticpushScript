@@ -1,2 +1,10 @@
 Setting up watches.
 Watches established.
+[master 12e57bf] file change on  dimanche 31 mars 2019, 15:14:49 (UTC+0200)
+ 3 files changed, 5 insertions(+), 2 deletions(-)
+ create mode 100644 nohup.out
+ create mode 100644 nohup.sh
+To https://github.com/wejd/automaticpushScript.git
+   8f38587..12e57bf  master -> master
+Setting up watches.
+Watches established.
