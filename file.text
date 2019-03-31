@@ -3,7 +3,6 @@ git commit -m 'fisrt commit'
 git push -u origin master
 git config credential.helper store
 
-
 #for mac we have to use
 fswatch -o ~/path/to/watch | xargs -n1 -I{} ~/script/to/run/when/files/change.sh
 #for linux and perhaps for mac os
