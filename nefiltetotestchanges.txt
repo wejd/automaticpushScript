@@ -1,1 +1,3 @@
 cleaning file
+testung chokidar
+first test is ok let's see know
