@@ -1,1 +1,1 @@
-clear file
+cleaning file
