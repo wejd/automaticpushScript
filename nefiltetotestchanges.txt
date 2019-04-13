@@ -2,3 +2,16 @@ chekc if works again and again hgv
 adz
 samedi 14/04
 chmod 77 nohup.out
+.gitingnore nohup.out
+node js test 
+git test server node js
+zefzkej
+fzefz
+last.but.not.least
+test commit
+let's see know
+i think it's okey know 
+it not ok
+scqzedzed
+sdc
+zezadzad

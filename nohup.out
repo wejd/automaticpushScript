@@ -29,3 +29,9 @@ Failed to open output file /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out
 Failed to open output file /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out
 To https://github.com/wejd/automaticpushScript.git
    f4211a2..4430d79  master -> master
+Failed to open output file /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out
+[master f5ec605] file change on  samedi 13 avril 2019, 23:30:16 (UTC+0200)
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 nohup.out
+To https://github.com/wejd/automaticpushScript.git
+   4430d79..f5ec605  master -> master
