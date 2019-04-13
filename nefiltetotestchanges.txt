@@ -1,3 +1,4 @@
 chekc if works again and again hgv
 adz
 samedi 14/04
+chmod 77 nohup.out

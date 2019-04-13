@@ -1,1 +1,1 @@
-sudo inotifywait -m -e modify -e create -e delete -e close_write -r -d -o /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out  /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
+sudo inotifywait -e modify -e create -e delete -e close_write -r -d -o /home/wejd/Bureau/Bureau/gitAutomaticPush/nohup.out  /home/wejd/Bureau/gitAutomaticPush | /home/wejd/Bureau/gitAutomaticPush/script.sh
